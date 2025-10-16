@@ -1,4 +1,4 @@
-package PastadeCria;
+package Beecrowd;
 import java.util.Scanner;
 
 public class BE1006 {
